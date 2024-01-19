@@ -1,13 +1,74 @@
-.bob{
-    height: 7335px;
-    width: 1600px;
-    background-color: antiquewhite;
+body{
     
-    margin-left: 250px;
-    margin-bottom: 250px;
+
 }
-/* header p{ */
-    color: blue;
-    font-size: 150px;
+.bob{
+    width: 7335px;
+    height: 600px;
+    padding-left: 140px;
+    padding-top: 50px;
+    padding-right: 140px;
+
+    
+    
+}
+.bob2{
+    position: relative;
+    
+
+}
+.bob2 img{
+    width: 1320px;
+    height: 600px;
+
+
+    
+}
+.over-text{
+    position: absolute;
+    top: 0px;
+    color: #FFF;
+
+    
+
+
+
+
+
+    
+}
+.over-text h5{
     text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+text-align: center;
+ /* padding: 177px 531px 383px 530px; */
+
+}
+.overly-text{
+    position: absolute;
+    
+    top: 0px;
+    color: #FFF;
+
+}
+.overly-text p{
+    
+    color: #FFF;
+    width: 632px;
+    height: 190px;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;
+
+
+
+
 }
