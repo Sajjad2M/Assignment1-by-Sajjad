@@ -674,7 +674,7 @@ padding: 126px 552px 298px 126px;
         margin-bottom: 0.07px;
         
         top: 0;
-        border-radius: 16px;
+        border-radius: 0px;
         }
         .foot .foot-address{
             position: absolute;
@@ -754,6 +754,8 @@ padding: 126px 552px 298px 126px;
             height: 64px;
             flex-shrink: 0;
             margin-top: 298px;
+            margin-left: 640px;
+            margin-right: 896px;
 
         }
         /* .foot .icon1, */
@@ -782,11 +784,11 @@ padding: 126px 552px 298px 126px;
             margin-left: 728px;
             margin-right: 808px;
         }
-        /* .foot .icon3{
+        .foot .icon3{
             position: absolute;
             margin-left: 816px;
             margin-right: 720px;
-        } */
+        }
         .foot .icon4{
             position: absolute;
             margin-left: 904px;
