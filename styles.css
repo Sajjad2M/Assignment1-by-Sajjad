@@ -756,6 +756,7 @@ padding: 126px 552px 298px 126px;
             margin-top: 298px;
             margin-left: 640px;
             margin-right: 896px;
+            margin-bottom: 247px;
 
         }
         
@@ -773,21 +774,23 @@ padding: 126px 552px 298px 126px;
         
 
         }
-        /* .foot .icon1{
-            position: absolute;
-            margin-left: 640px;
-            margin-right: 896px;
-        } */
+        
         .foot .icon2{
             position: absolute;
             margin-left: 728px;
             margin-right: 808px;
+            
         }
-        /* .foot .icon3{
+        .foot .icon3{
             position: absolute;
             margin-left: 816px;
             margin-right: 720px;
-        } */
+            margin-top: 298px;
+            margin-bottom: 247px;
+            flex-shrink:0;
+            width: 64px;
+            height: 64px;
+        }
         .foot .icon4{
             position: absolute;
             margin-left: 904px;
