@@ -19,7 +19,7 @@ body {
 .container h1 {
     width: 259px;
     height: 40px;
-    /* padding: 227px 671px 7068px 670px; */
+    
     color: #fff;
     font-size: 32px;
     position: absolute;
@@ -31,6 +31,7 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    flex-shrink: 0;
 }
 
 .container p {
@@ -141,7 +142,7 @@ font-family: Merriweather;
 font-size: 64px;
 font-style: normal;
 font-weight: 900;
-line-height: 88px; /* 137.5% */
+line-height: 88px;
 letter-spacing: 7.04px;
 padding: 126px 552px 298px 126px;
 
@@ -191,10 +192,10 @@ padding: 126px 552px 298px 126px;
     
 }
 .address{
-    /* background-color: fill: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%); */
+    
     width: 1320px;
     height: 482px;
-    /* background-color:blueviolet; */
+    
     position: absolute;
     margin:2416px 140px 4437px 140px;
     flex-shrink: 0;
@@ -246,7 +247,7 @@ padding: 126px 552px 298px 126px;
 
     position: absolute;
     top: 0;
-    /* margin: 332px 609px 126px 608px; */
+   
     margin-right: auto 609px;
     margin-bottom: 126px;
     margin-top: 332px;
@@ -288,10 +289,10 @@ padding: 126px 552px 298px 126px;
     height: 364.844px;
     flex-shrink: 0;
     position: absolute;
-    /* margin:3067.08px 583.08px 3903.08px 652.08px ; */
+   
     padding: 49.08px;
     border-radius: 364.844px;
-/* background: lightgray -91.279px 0px / 150.038% 100% no-repeat; */
+
 }
 .about h3{
     position: absolute;
@@ -414,7 +415,7 @@ padding: 126px 552px 298px 126px;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
-    line-height: 32px; /* 160% */
+    line-height: 32px; 
 
  }
  
@@ -470,7 +471,7 @@ padding: 126px 552px 298px 126px;
         width: 192px;
         height: 29px;
 
-        color: #F00;
+        color: gold;
         font-family: Inter;
         font-size: 24px;
         font-style: normal;
@@ -507,7 +508,7 @@ padding: 126px 552px 298px 126px;
         font-size: 20px;
         font-style: normal;
         font-weight: 400;
-        line-height: 32px; /* 160% */
+        line-height: 32px; 
         
         
                 
@@ -756,9 +757,9 @@ padding: 126px 552px 298px 126px;
             width:64px;
             height: 64px;
             flex-shrink: 0;
-            /* display: inline; */
+            
             margin-top:298px;
-            /* margin-right: 24px; */
+            
             margin-bottom: 247px;
             
         
@@ -784,7 +785,7 @@ padding: 126px 552px 298px 126px;
             margin-left: 904px;
             margin-right: 632px;
         }
-        .hr2{
+        .foot .hr2{
             position: absolute;
             width: 1320px;
             height: 0px;
@@ -792,6 +793,8 @@ padding: 126px 552px 298px 126px;
             background: rgba(255, 255, 255, 0.15);
             
         }
+        
+        
         .foot .finish h5{
             position: absolute;
             width: 295px;
@@ -804,8 +807,9 @@ padding: 126px 552px 298px 126px;
             font-style: normal;
             font-weight: 500;
             line-height: normal;
+            
         }
-        .foot .finish p{
+        .foot .finish2 h4{
             position: absolute;
             color: #FFF;
             font-family: Inter;
@@ -814,10 +818,19 @@ padding: 126px 552px 298px 126px;
             font-weight: 500;
             line-height: normal;
             
+        
             width: 145px;
             height: 29px;
-            margin: 460px 140px 120px 1315px;
+            /* margin: 460px 140px 120px 1315px; */
             flex-shrink: 0;
+            margin-top: 460px;
+            margin-left: 1345px;
+            margin-bottom: 120px;
+        
+            top: 0;
+            
+            
+            
         }
      
     
