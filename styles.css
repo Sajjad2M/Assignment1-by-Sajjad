@@ -676,6 +676,7 @@ padding: 126px 552px 298px 126px;
         margin-bottom: 0.07px;
         
         top: 0;
+        border-radius: 0px;
         }
         .foot .foot-address{
             position: absolute;
@@ -828,8 +829,6 @@ padding: 126px 552px 298px 126px;
             margin-bottom: 120px;
         
             top: 0;
-            
-            
             
         }
      
