@@ -1,0 +1,54 @@
+body{
+    
+    background-color: aquamarine;
+    
+}
+.fullpage{
+    width: fixed 1600px;
+    height: fixed 7335px;
+    position: relative
+    ;
+}
+.fullpage .page1{
+    width:fixed 1320px;
+    height: fixed 600px;
+    flex-shrink: 0;
+    padding-top: 50px;
+    padding-left: 140px;
+    padding-right: 140px;
+    padding-bottom: 6685px;
+    border-radius: 16px;
+    
+    
+    
+}
+
+.task1 h5{
+    color: #FFF;
+text-align: center;
+/* font-family: Merriweather; */
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    width:fixed 259px;
+    height: fixed 40px;
+    padding: 227px 671px 7068px 670px;
+    position: absolute;
+    
+    
+}
+.task1 p{
+
+    position: absolute;
+    padding: 283px 484px 6862px 484px;
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px; /* 131.944% */
+width: fixed 632px;
+height: fixed 190px;
+}
