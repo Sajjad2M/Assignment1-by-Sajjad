@@ -748,6 +748,14 @@ padding: 126px 552px 298px 126px;
             margin: 160px 275px 409px 1114px;
 
         }
+        .foot .icon1{
+            position: absolute;
+            width: 64px;
+            height: 64px;
+            flex-shrink: 0;
+            margin-top: 298px;
+
+        }
         /* .foot .icon1, */
         .foot .icon2,
         /* .foot .icon3, */
