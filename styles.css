@@ -72,3 +72,39 @@ body {
     
 
 }
+.has{
+    width: 802.9px;
+    height: 795.219px;
+    flex-shrink: 0;
+    
+    position: absolute;
+    top: 715px;
+    left: 334px;
+    bottom: 5825;
+    right: 463.1px;
+    
+    
+    text-align: center;
+
+    }
+.has h1{
+    color: #ff0000;
+    font-size: 120px;
+    margin-top: 0;
+}
+.has .has-h4{
+    color: #ff0000;
+    font-size: 30px;
+    margin-top: 0;
+    
+
+}
+.has .has-h2{
+    color: #070211;
+    font-size: 60px;
+    
+    top: 0;
+    
+    
+    
+}
