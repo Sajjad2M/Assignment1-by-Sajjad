@@ -600,7 +600,7 @@ padding: 126px 552px 298px 126px;
         font-size: 20px;
         font-style: normal;
         font-weight: 400;
-        line-height: 32px; /* 160% */
+        line-height: 32px; 
     }
     .mail .mail-put input{
         width: 638px;
@@ -748,9 +748,9 @@ padding: 126px 552px 298px 126px;
             margin: 160px 275px 409px 1114px;
 
         }
-        .foot .icon1,
+        /* .foot .icon1, */
         .foot .icon2,
-        .foot .icon3,
+        /* .foot .icon3, */
         .foot .icon4{
             position: absolute;
             width:64px;
@@ -764,21 +764,21 @@ padding: 126px 552px 298px 126px;
         
 
         }
-        .foot .icon1{
+        /* .foot .icon1{
             position: absolute;
             margin-left: 640px;
             margin-right: 896px;
-        }
+        } */
         .foot .icon2{
             position: absolute;
             margin-left: 728px;
             margin-right: 808px;
         }
-        .foot .icon3{
+        /* .foot .icon3{
             position: absolute;
             margin-left: 816px;
             margin-right: 720px;
-        }
+        } */
         .foot .icon4{
             position: absolute;
             margin-left: 904px;
