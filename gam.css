@@ -693,7 +693,7 @@
         margin-left: 0px;
         margin-right: 0px;
         margin-bottom: 0.07px;
-        border-radius:16px;
+        border-radius:0px;
         top: 0;
         }
         .foot .foot-address{
@@ -815,7 +815,7 @@
         .foot .finish h5{
             position: absolute;
             width: 295px;
-            height: 29px;168
+            height: 29px;
             flex-shrink: 0;
             margin:460px 1165px 120px 140px;
             color: #FFF;
